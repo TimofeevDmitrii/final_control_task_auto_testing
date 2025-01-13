@@ -1,0 +1,4 @@
+api_url_login: https://test-stand.gb.ru/gateway/login
+api_url_profile: https://test-stand.gb.ru/api/users/profile/{id}
+user_name: user_polar_wolf_590033
+passwd: 2e593e01ee

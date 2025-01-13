@@ -1,0 +1,7 @@
+2025-01-05 20:01:39 DEBUG login() -> Send Request POST https://test-stand.gb.ru/gateway/login
+2025-01-05 20:01:39 DEBUG _new_conn() -> Starting new HTTPS connection (1): test-stand.gb.ru:443
+2025-01-05 20:01:44 DEBUG _make_request() -> https://test-stand.gb.ru:443 "POST /gateway/login HTTP/1.1" 200 250
+2025-01-05 20:01:44 INFO test_api_check_username() -> test_api_check_username is starting...
+2025-01-05 20:01:44 DEBUG get_user_profile() -> Send Request GET https://test-stand.gb.ru/api/users/profile/36434
+2025-01-05 20:01:44 DEBUG _new_conn() -> Starting new HTTPS connection (1): test-stand.gb.ru:443
+2025-01-05 20:01:48 DEBUG _make_request() -> https://test-stand.gb.ru:443 "GET /api/users/profile/36434 HTTP/1.1" 200 371
